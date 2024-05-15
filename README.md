@@ -23,3 +23,6 @@ For testing all the Jetson Nano and learn the core operation for beginner
 01101 - Right Thums Up
 01110 - Right Say Hi/Bye
 ```
+
+## References 
+1. https://automaticaddison.com/how-to-blink-an-led-using-nvidia-jetson-nano/
