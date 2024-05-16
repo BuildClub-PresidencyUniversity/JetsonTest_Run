@@ -32,4 +32,4 @@ For testing all the Jetson Nano and learn the core operation for beginner
 1 Arduino will be connected to Jetson By UART PINs and 4 More Digital Pins For Select which arduino to send data 
 See this Flow Chart
 
-![V1.0.1 Flow Chart Image](/Image/Version1-0-1_Humanoid.png)
+![V1.0.1 Flow Chart Image](https://github.com/BuildClub-PresidencyUniversity/JetsonTest_Run/blob/main/Version1-0-1_Humanoid.png?raw=true)
