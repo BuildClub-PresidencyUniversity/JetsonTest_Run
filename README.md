@@ -26,3 +26,10 @@ For testing all the Jetson Nano and learn the core operation for beginner
 
 ## References 
 1. https://automaticaddison.com/how-to-blink-an-led-using-nvidia-jetson-nano/
+
+
+## Arduino and Jetson Nano Communication 
+1 Arduino will be connected to Jetson By UART PINs and 4 More Digital Pins For Select which arduino to send data 
+See this Flow Chart
+
+![V1.0.1 Flow Chart Image]()
